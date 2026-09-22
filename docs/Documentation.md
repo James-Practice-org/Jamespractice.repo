@@ -1,3 +1,3 @@
-#This is the documentation
+# This is the documentation
 
 The documentation of the project.
